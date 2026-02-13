@@ -1,0 +1,5 @@
+{
+  "name": "Britify Auth & Dashboard",
+  "description": "A secure and elegant authentication system integrated with Firebase, featuring a modern dashboard with AI-powered personalized greetings.",
+  "requestFramePermissions": []
+}
